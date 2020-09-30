@@ -1,4 +1,4 @@
-# Org-HTML-Slideshow
+# Org-HTML-CompleteSlideshow
 
 You have an outline written in Emacs Org-Mode.  Export it to HTML. Add
 Org-HTML-Slideshow, and you have an interactive slide presentation
@@ -29,7 +29,7 @@ org-html-slideshow on the Git branch [emacs23-org7](https://github.com/relevance
 
 ## Using in Your Org-mode Files
 
-**Step 1.** Copy the following files from the `production` directory
+**Step 1.** Copy the following files from the `production` directory and paste it
 to the directory containing your .org file:
 
     org-html-slideshow.js
